@@ -1,7 +1,7 @@
 {
     "name": "kusmierz/xpdfbin-amd64",
     "description": "Xpdf is an open source viewer for Portable Document Format (PDF) files. (These are also sometimes also called 'Acrobat' files, from the name of Adobe's PDF software.) The Xpdf project also includes a PDF text extractor, PDF-to-PostScript converter, and various other utilities. Static linked linux binary for amd64 systems.",
-    "keywords": ["pdf", "xpdf", "text extract", "info", "extract", "images" "convert", "binary"],
+    "keywords": ["pdf", "xpdf", "text extract", "info", "extract", "images", "convert", "binary"],
     "license": "GPL Version 3",
     "homepage": "http://www.foolabs.com/xpdf/index.html",
     "authors": [
